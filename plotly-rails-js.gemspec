@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.name        = "plotly-rails-js"
   s.version     = Plotly::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["alexwebgr"]
-  s.email       = ["email@alex-web.gr"]
-  s.homepage    = "https://github.com/alexwebgr/plotly-rails-js"
+  s.authors     = ["p1-ra"]
+  s.email       = ["no-reply@google.com"]
+  s.homepage    = "https://github.com/p1-ra/plotly-rails-js"
   s.summary     = "Use plotly with Rails 5+"
   s.description = "This gem provides plotly and the plotly-ujs driver for your Rails 4+ application."
   s.license     = "MIT"

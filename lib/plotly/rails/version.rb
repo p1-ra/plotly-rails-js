@@ -1,5 +1,5 @@
 module Plotly
   module Rails
-    VERSION = "1.39.2"
+    VERSION = "1.50.1"
   end
 end
